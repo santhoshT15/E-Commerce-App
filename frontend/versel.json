@@ -4,6 +4,5 @@
       "source": "/(.*)",
       "destination": "/"
     }
-  ],
-  "installCommand": "npm install react-router-dom react-toastify axios"
+  ]
 }
